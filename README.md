@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://ozturk-web.com/logo.png" alt="BaskıYönetim Logo" width="200">
+  <img src="baskiyonetim_linkedin_banner_v2.svg" alt="BaskıYönetim Banner" width="100%">
+
+  <br>
+
   <h1>🚀 BaskıYönetim v1.0.0</h1>
   <p><b>3D Yazıcı İş Akışı ve Sipariş Yönetim Sistemi</b></p>
 
   <a href="https://github.com/ozturkweb/3dBaskiYonetim-app/releases/latest/download/BaskiYonetimSetup.exe">
-    <img src="https://img.shields.io/badge/HEMEN%20İNDİR-v1.0.0-green?style=for-the-badge&logo=windows" alt="İndir">
+    <img src="https://img.shields.io/badge/HEMEN%20İNDİR-v1.0.0-blue?style=for-the-badge&logo=windows" alt="İndir">
   </a>
 </div>
 
@@ -13,6 +16,10 @@
 ### ✨ Öne Çıkan Özellikler
 Uygulama, 3D baskı süreçlerinizi profesyonel bir seviyeye taşımak için geliştirildi:
 
+<div align="center">
+  <img src="baskiyonetim_ozellikler_kart_v2.svg" alt="Özellikler Kartı" width="80%">
+</div>
+
 * **📦 Sipariş Takibi:** Gelen işleri adım adım (Hazırlanıyor, Basılıyor, Tamamlandı) izleyin.
 * **💰 Maliyet Hesaplama:** Gramaj ve elektrik tüketimine göre anlık fiyatlandırın.
 * **👥 Müşteri Yönetimi:** Kayıtlı müşteriler ve geçmiş sipariş datası.
@@ -20,26 +27,18 @@ Uygulama, 3D baskı süreçlerinizi profesyonel bir seviyeye taşımak için gel
 
 ---
 
-### 📸 Ekran Görüntüleri
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="GÖRSEL_LİNKİ_1" alt="Ana Ekran" style="border-radius: 10px;">
-      <br><em>Ana Dashboard</em>
-    </td>
-    <td width="50%" align="center">
-      <img src="GÖRSEL_LİNKİ_2" alt="Sipariş Ekranı" style="border-radius: 10px;">
-      <br><em>Sipariş Detayları</em>
-    </td>
-  </tr>
-</table>
+### 📸 Uygulama Tanıtımı
+<div align="center">
+  <img src="baskiyonetim_tanitim_ana_v2.svg" alt="Ana Tanıtım Görseli" width="90%" style="border-radius: 10px; border: 1px solid #ddd;">
+  <br><em>Profesyonel Arayüz ve Kolay Kullanım</em>
+</div>
 
 ---
 
 ### 🛠️ Kurulum ve Başlangıç
-1.  [Buradan](https://github.com/ozturkweb/3dBaskiYonetim-app/releases/latest/download/BaskiYonetimSetup.exe) `.exe` dosyasını indirin.
-2.  Windows "SmartScreen" uyarısı verirse **Ek Bilgi** -> **Yine de Çalıştır** deyin.
-3.  Uygulamayı başlatın ve yerel veritabanınızı oluşturun.
+1. [Buradan](https://github.com/ozturkweb/3dBaskiYonetim-app/releases/latest/download/BaskiYonetimSetup.exe) `.exe` dosyasını indirin.
+2. Windows "SmartScreen" uyarısı verirse **Ek Bilgi** -> **Yine de Çalıştır** deyin.
+3. Uygulamayı başlatın ve yerel veritabanınızı oluşturun.
 
 ---
 

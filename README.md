@@ -20,7 +20,7 @@ Uygulama, 3D baskı süreçlerinizi profesyonel bir seviyeye taşımak için gel
   <img src="baskiyonetim_ozellikler_kart_v2.svg" alt="Özellikler Kartı" width="80%">
 </div>
 
-* **📦 Sipariş Takibi:** Gelen işleri adım adım (Hazırlanıyor, Basılıyor, Tamamlandı) izleyin.
+* **📦 Sipariş Takibi:** Gelen işleri adım adım izleyin.
 * **💰 Maliyet Hesaplama:** Gramaj ve elektrik tüketimine göre anlık fiyatlandırın.
 * **👥 Müşteri Yönetimi:** Kayıtlı müşteriler ve geçmiş sipariş datası.
 * **📊 İstatistikler:** Aylık kazanç ve malzeme kullanım raporları.

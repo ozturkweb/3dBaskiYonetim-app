@@ -64,7 +64,7 @@ Uygulama, 3D baskı süreçlerinizi profesyonel bir seviyeye taşımak için gel
 
 #### ⚙️ Sistem Ayarları
 <div align="center">
-  <img src="sabitler.jpg" width="60%">
+  <img src="sabitler.png" width="60%">
   <br><em>Parametrik Ayarlar ve Sabit Tanımlamaları</em>
 </div>
 

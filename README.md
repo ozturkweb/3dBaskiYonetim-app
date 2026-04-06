@@ -73,7 +73,7 @@ Uygulama, 3D baskı süreçlerinizi profesyonel bir seviyeye taşımak için gel
 ### 🛠️ Kurulum ve Başlangıç
 1. [Buradan](https://github.com/ozturkweb/3dBaskiYonetim-app/releases/latest/download/BaskiYonetimSetup.exe) `.exe` dosyasını indirin.
 2. Windows "SmartScreen" uyarısı verirse **Ek Bilgi** -> **Yine de Çalıştır** deyin.
-3. Uygulamayı başlatın ve yerel veritabanınızı oluşturun.
+3. Uygulamayı başlattıktan sonra, lisans kaydınızın tamamlanması için kayıtlı e-posta adresinizi aşağıdaki kanallardan bize iletin.
 
 ---
 

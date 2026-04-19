@@ -1,86 +1,194 @@
 <div align="center">
-  <img src="baskiyonetim_linkedin_banner_v2.svg" alt="BaskıYönetim Banner" width="100%">
 
-  <br>
+<img src="anasayfa.png" alt="BaskiYönetim Dashboard" width="100%">
 
-  <h1>🚀 BaskıYönetim v1.0.0</h1>
-  <p><b>3D Yazıcı İş Akışı ve Sipariş Yönetim Sistemi</b></p>
+# BaskiYönetim
 
-  <a href="https://github.com/ozturkweb/3dBaskiYonetim-app/releases/latest/download/BaskiYonetimSetup.exe">
-    <img src="https://img.shields.io/badge/HEMEN%20İNDİR-v1.0.0-blue?style=for-the-badge&logo=windows" alt="İndir">
-  </a>
+**3D Baskı İşletmeleri İçin Profesyonel Yönetim Paneli**
+
+[![Version](https://img.shields.io/badge/versiyon-v1.1.0-7c3aed?style=flat-square)](https://github.com/ozturkweb/3dBaskiYonetim-app/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078d4?style=flat-square&logo=windows)](https://github.com/ozturkweb/3dBaskiYonetim-app)
+[![License](https://img.shields.io/badge/lisans-Ticari-1d9e75?style=flat-square)](https://www.ozturk-web.com/portfolyo-detay/baski-yonetim-paneli)
+[![Website](https://img.shields.io/badge/web-ozturk--web.com-f59e0b?style=flat-square)](https://www.ozturk-web.com)
+
+[⬇ İndir](#kurulum) · [📸 Ekran Görüntüleri](#ekran-görüntüleri) · [✨ Özellikler](#özellikler) · [📰 Tanıtım Yazısı](https://www.ozturk-web.com/haber/yerli-yazilim-baskiyonetim-v1-0-yayinlandi-3d-yazici-isletmeleri-icin-tam-cozum)
+
 </div>
 
 ---
 
-### ✨ Öne Çıkan Özellikler
-Uygulama, 3D baskı süreçlerinizi profesyonel bir seviyeye taşımak için geliştirildi:
+## 🎯 Nedir?
 
-<div align="center">
-  <img src="baskiyonetim_ozellikler_kart_v2.svg" alt="Özellikler Kartı" width="80%">
-</div>
+**BaskiYönetim**, 3D baskı işletmelerinin siparişlerini, maliyetlerini, müşterilerini ve stoklarını tek bir platformdan yönetmesini sağlayan profesyonel bir Windows masaüstü uygulamasıdır.
 
-* **📦 Sipariş Takibi:** Gelen işleri adım adım izleyin.
-* **💰 Maliyet Hesaplama:** Gramaj ve elektrik tüketimine göre anlık fiyatlandırın.
-* **👥 Müşteri Yönetimi:** Kayıtlı müşteriler ve geçmiş sipariş datası.
-* **📊 İstatistikler:** Aylık kazanç ve malzeme kullanım raporları.
+> *"Üretime odaklan, maliyet ve siparişleri biz takip edelim."*
 
 ---
 
-### 📸 Uygulama Tanıtımı & Ekran Görüntüleri
+## 👥 Kimler İçin?
 
-#### 🏠 Ana Panel ve Ürün Yönetimi
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="anasayfa.png"><br><b>Genel Bakış Dashboard</b></td>
-    <td width="50%" align="center"><img src="ürünler.png"><br><b>Stok ve Ürün Yönetimi</b></td>
-  </tr>
-</table>
-
-#### 💰 Fiyatlandırma ve Operasyon
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="fiyat%20hesaplama.png"><br><b>Gelişmiş Maliyet Analizi</b></td>
-    <td width="50%" align="center"><img src="iskonto.png"><br><b>İndirim ve Kampanya Yönetimi</b></td>
-  </tr>
-</table>
-
-#### 📊 Finansal Takip ve Kasa
-<table>
-  <tr>
-    <td width="33%" align="center"><img src="kasa.png"><br><b>Nakit Akışı</b></td>
-    <td width="33%" align="center"><img src="veresiye%20takip.png"><br><b>Borç/Alacak Takibi</b></td>
-    <td width="33%" align="center"><img src="giderler.png"><br><b>Gider Yönetimi</b></td>
-  </tr>
-</table>
-
-#### 👥 Müşteri ve Raporlama
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="müşteriler.png"><br><b>Müşteri Veritabanı</b></td>
-    <td width="50%" align="center"><img src="raporlar.png"><br><b>Detaylı Analiz ve Raporlar</b></td>
-  </tr>
-</table>
-
-#### ⚙️ Sistem Ayarları
-<div align="center">
-  <img src="sabitler.png" width="60%">
-  <br><em>Parametrik Ayarlar ve Sabit Tanımlamaları</em>
-</div>
+| Kullanıcı | Açıklama |
+|-----------|----------|
+| 🏭 **3D Baskı Atölyeleri** | Birden fazla sipariş ve müşteriyi yöneten profesyonel atölyeler |
+| 🎨 **Hobi Üreticiler** | Üretimini ticarete dönüştürmek isteyen maker'lar |
+| 🛒 **E-Ticaret Satıcıları** | Online platformlarda 3D ürün satanlar |
+| ⚙️ **Prototip Firmaları** | Müşteri bazlı prototip üretimi yapan firmalar |
 
 ---
 
-### 🛠️ Kurulum ve Başlangıç
-1. [Buradan](https://github.com/ozturkweb/3dBaskiYonetim-app/releases/latest/download/BaskiYonetimSetup.exe) `.exe` dosyasını indirin.
-2. Windows "SmartScreen" uyarısı verirse **Ek Bilgi** -> **Yine de Çalıştır** deyin.
-3. Uygulamayı başlattıktan sonra, lisans kaydınızın tamamlanması için kayıtlı e-posta adresinizi aşağıdaki kanallardan bize iletin.
+## ✨ Özellikler
+
+### 📦 Sipariş Yönetimi
+- Sipariş oluşturma ve takip etme
+- Toptan / perakende otomatik fiyatlandırma
+- İskonto profilleri ile esnek indirim sistemi
+- Veresiye, kısmi ödeme ve kalan borç takibi
+- KDV dahil fiyat desteği
+
+### 💰 Maliyet Hesaplama
+- Gramaj ve baskı süresine göre anlık maliyet analizi
+- Elektrik, amortisman ve işçilik otomatik hesaplama
+- PLA · PETG · TPU · ASA filaman desteği
+- Ürün bazlı özel işçilik oranı (karmaşık modeller için)
+
+### 🖼️ Ürün Kataloğu
+- **Sınırsız** ürün ekleme
+- Ürün görseli, barkod ve kategori yönetimi
+- Stok takibi
+- Net maliyet, toptan ve perakende fiyat
+
+### 👥 Müşteri Yönetimi
+- Müşteri veritabanı ve cari hesap
+- Sipariş geçmişi
+- İskonto profili atama
+
+### 🏦 Muhasebe
+- Kasa — nakit akışı ve gelir/gider dengesi
+- Kategori bazlı gider takibi
+- Tahsilat yönetimi
+
+### 📈 Raporlar
+- Aylık kazanç ve kar marjı analizi
+- Ürün bazlı satış raporu
+- Amortisman analizi
+- Stok durumu ve veresiye özeti
 
 ---
 
-### 📞 İletişim & Destek
-- **Web:** [ozturk-web.com](https://ozturk-web.com)
-- **LinkedIn:** [Murat Öztürk](https://linkedin.com/in/murat-öztürk-7561bb142)
+## 📸 Ekran Görüntüleri
+
+<details>
+<summary><b>Dashboard</b></summary>
+<br>
+<img src="anasayfa.png" alt="Dashboard" width="100%">
+</details>
+
+<details>
+<summary><b>Fiyat Hesaplayıcı</b></summary>
+<br>
+<img src="fiyat%20hesaplama.png" alt="Fiyat Hesaplama" width="100%">
+</details>
+
+<details>
+<summary><b>Sipariş Oluşturma</b></summary>
+<br>
+<img src="yeni%20sipari%C5%9F.png" alt="Yeni Sipariş" width="100%">
+</details>
+
+<details>
+<summary><b>Ürün Kataloğu</b></summary>
+<br>
+<img src="%C3%BCr%C3%BCnler.png" alt="Ürün Kataloğu" width="100%">
+</details>
+
+<details>
+<summary><b>Kasa</b></summary>
+<br>
+<img src="kasa.png" alt="Kasa" width="100%">
+</details>
+
+<details>
+<summary><b>Raporlar</b></summary>
+<br>
+<img src="raporlar.png" alt="Raporlar" width="100%">
+</details>
+
+<details>
+<summary><b>Veresiye Takip</b></summary>
+<br>
+<img src="veresiye%20takip.png" alt="Veresiye Takip" width="100%">
+</details>
+
+<details>
+<summary><b>Müşteriler</b></summary>
+<br>
+<img src="m%C3%BC%C5%9Fteriler.png" alt="Müşteriler" width="100%">
+</details>
+
+<details>
+<summary><b>Giderler</b></summary>
+<br>
+<img src="giderler.png" alt="Giderler" width="100%">
+</details>
+
+<details>
+<summary><b>İskonto Profilleri</b></summary>
+<br>
+<img src="iskonto.png" alt="İskonto" width="100%">
+</details>
+
+<details>
+<summary><b>Sabitler & Filaman</b></summary>
+<br>
+<img src="sabitler.png" alt="Sabitler" width="100%">
+</details>
+
+---
+
+## ⚡ Avantajlar
+
+| Özellik | Fayda |
+|---------|-------|
+| 🆓 **3 Gün Ücretsiz Deneme** | Risk almadan test edin |
+| 🔒 **Veri Güvenliği** | Lisans sonrası verileriniz aynen kalır |
+| ⚡ **Tek Kurulum** | Tüm bağımlılıklar otomatik yüklenir |
+| 🔔 **Güncelleme Kontrolü** | Yeni sürümlerden haberdar olun |
+| 🚀 **Hızlı ve Hafif** | Windows 10/11'de sorunsuz çalışır |
+| 🌐 **İnternet Gerektirmez** | Yerel veritabanı, verileriniz bilgisayarınızda |
+
+---
+
+## 🚀 Kurulum
+
+1. **[Releases](https://github.com/ozturkweb/3dBaskiYonetim-app/releases)** sayfasından son sürümü indirin
+2. Kurulum dosyasını çalıştırın — tüm bağımlılıklar otomatik yüklenir
+3. Uygulamayı açın ve **3 gün ücretsiz** deneyin
+4. Beğendiyseniz lisans alın, kaldığınız yerden devam edin
+
+---
+
+## 🛠️ Teknik Detaylar
+
+| | |
+|--|--|
+| **Dil / Framework** | C# · Blazor Hybrid (MAUI) |
+| **Veritabanı** | SQLite (Microsoft.Data.Sqlite) |
+| **Platform** | Windows 10 / 11 |
+| **Dağıtım** | Visual Studio Installer Projects |
+| **Lisanslama** | HMAC-SHA256 makine kilitli lisans |
+
+---
+
+## 📬 İletişim & Daha Fazla
+
+- 🌐 **Web:** [ozturk-web.com](https://www.ozturk-web.com)
+- 📁 **Portfolyo:** [Proje Detayı](https://www.ozturk-web.com/portfolyo-detay/baski-yonetim-paneli)
+- 📰 **Tanıtım:** [v1.0 Duyuru Yazısı](https://www.ozturk-web.com/haber/yerli-yazilim-baskiyonetim-v1-0-yayinlandi-3d-yazici-isletmeleri-icin-tam-cozum)
+
+---
 
 <div align="center">
-  <sub>© 2026 Öztürk Yazılım - Murat Öztürk tarafından Antalya'da geliştirilmiştir.</sub>
+
+**BaskiYönetim** · Geliştirici: [ozturk-web.com](https://www.ozturk-web.com) · Antalya 🇹🇷
+
 </div>
